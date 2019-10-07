@@ -1,0 +1,102 @@
+1. suppressing their laughter ： 忍住不笑
+ps. you find native speakers constantly suppressing their laughter as you try to make yourself understood.
+
+2. discuss usage only spottily : 蜻蜓点水的讨论使用
+ps. Books about programming languages often cover only the first two, or discuss usage only spottily.
+
+3. best put to use : 最好的使用
+ps. But how is the language best put to use in practice?
+
+4. spoken sentences ：口头中的句子
+5. over time 随着时间的过去
+ps. Programs, unlike spoken sentences and unlike most books and magazines, are likely to be changed over time.
+
+6. readily understood : 容易理解的
+tips：operates和is是并列关系，用于修饰前面的code
+ps. It's typically not enough to produce code that operates effectively and is readily understood by other persons
+
+7. Of those ten ways ：在这10种方式中
+ps. Of those ten ways, seven will be awkward, inefficient, or puzzling.
+
+8. Of the other three : 剩下的3种
+9.  be similar to : 与...类似
+10. release 发行
+ps. Of the other three, which is most likely to be similar to the code needed for the task T' in next year's software release?
+
+11. associated with  : 与...相关
+12. there are dozens of *** 有大量的***
+ps.  Likewise, there are dozens of books on the libraries and APIs associated with the Java programming language.
+
+13. addresses : 解决
+14. need ：需求
+ps. This book addresses your third need.
+
+15. address 提供
+16. graphic display 图像显示
+ps. The libraries address graphic display support, networking, distributed computing, and security.
+
+17. yours truly 至此敬礼（写在书信的末尾）
+
+18. Sun Microsystems  sun公司
+19. spend years doing something  多年从事...工作
+ps. Bloch has spent years extending, implementing, and using the Java programming language at Sun Microsystems.
+
+
+20. on : 目的是为了
+21. less likely to cause ：不太可能导致
+ps. Here he offers good advice, systematically organized, on how to structure your code 
+so that it works well, 
+so that other people can understand it,
+so that future modifications and improvements are less likely to cause headaches—perhaps, even,
+so that your programs will be pleasant, elegant, and graceful.
+
+22.Preface to the Third Edition 第三版的前言
+
+23. deliberately ：故意的，刻意的
+24. differs from : 区别于
+ps. deliberately differs from languages designed to support a single way of writing programs.
+
+25. Relative Simplicity : 相对简单
+26. much of 很多
+27. partly an illusion 部分是错觉
+ps. Much of the relative simplicity of Java is—like for most new languages—partly an illusion and partly a function of its incompleteness.
+
+28. As time passes 随着时间的推移
+
+29 grow significantly ： 显著增长
+ps. Java will grow significantly in size and complexity.
+
+30. implementation-dependent 依赖于实现的
+ps. It will double or triple in size and grow implementation-dependent extensions or libraries.
+
+31. it's fair to say : 公平的说，客观来讲
+ps. Now, twenty years later, it's fair to say that Gosling and Stroustrup were both right. 
+
+32. parallel execution 并行
+33. from A, to B, to C  :  从A到B再到C
+ps. Java is now large and complex, with multiple abstractions for many things,
+from parallel execution, to iteration, to the representation of dates and times.
+
+34. ardor has cooled a bit : 热情有所减少
+ps. I still like Java, though my ardor has cooled a bit as the platform has grown.
+
+35. Given ：考虑到（Given在句首一般被翻译为考虑到，而不是给与）
+36. a/the need for *** : 一个***的需求
+37. up-to-date : 最新的
+38. best-practice guide : 最佳实践指导的
+ps. Given its increased size and complexity, the need（for an up-to-date best-practices guide） is all the more critical.
+
+39. industry-wide : 业界，全行业的
+40. occupied a fair amount of my time : 占用我大量时间
+ps. I would be remiss if I failed to mention an industry-wide best practice that has occupied a fair amount of my time lately.
+
+40. meteoric success : 快速成功
+ps. This practice was critical to the meteoric success of computer technology. 
+
+41.active in the effort to : 积极致力于
+ps. I am active in the effort to preserve this freedom
+
+42. It is crucial to A that B  做B这个件事对A很重要
+ps.It is crucial to the continued health of our profession that we retain the right to reimplement each others'APIs
+
+43.such a kind and enthusiastic reception : 如此善良热情的好评
